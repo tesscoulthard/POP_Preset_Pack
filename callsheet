@@ -1,0 +1,24 @@
+<p>Dear {{recipient.greeting}},</p>
+<p>Please find the following documents attached for <i>date/block/day</i>:</p>
+<ul>
+<li>Call Sheet</li>
+<li>Sides</li>
+<li>Risk Assessment Pack</li>
+<li>Movement Order</li>
+<li>Location Map</li>
+</ul>
+<br />
+<p>Unit Call:<i> time</i></p>
+<p>Unit Wrap: <i> time</i></p>
+<p>Unit Base:<i> address</i></p>
+<p>Location:<i> address</i>  </p>
+<br />
+<p>PRODUCTION NOTES:<i> additional notes</i></p>
+<br />
+<p>Kind regards,</p>
+<strong>Client Name</strong><br />
+<strong>Job Role - Production Company</strong><br />
+<strong>A</strong>: 123 London Road, London, LD1 D23<br />
+<strong>T</strong>: 020 1234 5678<br />
+<strong>E</strong>: <a href="mailto:demo@wegotpop.com" target="_blank">demo@wegotpop.com</a><br />
+<strong>W</strong>: <a href="http://crew.wegotpop.com" target="_blank">wegotpop.com</a><br />
