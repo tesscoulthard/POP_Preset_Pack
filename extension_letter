@@ -1,0 +1,10 @@
+<p>Dear {{recipient.greeting}},</p>
+<p> Further to your agreement signed [agreement countersignature date], we intend to expend your contract by [number of weeks or months e.g. 1 week].</p>
+<p>During this period you wil be paid at your agreed weekly salary rate [£ insert rate] as per your original contract. All terms and conditional outlined in your original agreement are for the duration of this extension period.</p>
+<p>Kind regards,</p>
+<strong>Client Name</strong><br />
+<strong>Job Role - Production Company</strong><br />
+<strong>A</strong>: 123 London Road, London, LD1 D23<br />
+<strong>T</strong>: 020 1234 5678<br />
+<strong>E</strong>: <a href="mailto:demo@wegotpop.com" target="_blank">demo@wegotpop.com</a><br />
+<strong>W</strong>: <a href="http://crew.wegotpop.com" target="_blank">wegotpop.com</a><br />
