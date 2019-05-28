@@ -1,0 +1,9 @@
+<p>Dear {{recipient.greeting}},</p>
+<p>Please find the attached the production memo dates DD/MM/YY regarding...</p>
+<p>Kind regards,</p>
+<strong>Client Name</strong><br />
+<strong>Job Role - Production Company</strong><br />
+<strong>A</strong>: 123 London Road, London, LD1 D23<br />
+<strong>T</strong>: 020 1234 5678<br />
+<strong>E</strong>: <a href="mailto:demo@wegotpop.com" target="_blank">demo@wegotpop.com</a><br />
+<strong>W</strong>: <a href="http://crew.wegotpop.com" target="_blank">wegotpop.com</a><br />
